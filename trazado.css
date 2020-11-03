@@ -1,0 +1,42 @@
+/*CSS reset settings here*/
+*{
+    margin: 10px;
+    padding: 10px;
+    /*border-color: red;
+    border-width: 1px;
+    border-style: dotted;*/
+   }
+#todo{
+    background-color: silver;
+    margin: 0px auto;
+}
+#head{
+    background-color: green;
+    height: 150px;
+}
+#menu{
+    background-color: blue;
+    display: inline-block;
+    height: 281px;
+    width: 200px;  
+}
+#body{
+    background-color: red;
+    display: inline-block;
+    height: 600px;
+    width: 965px;
+}
+.cuadro{
+    background-color: yellow;
+    display: inline-block;
+    height: 260px;
+    width: 275px;
+   
+}
+#pie{
+    background-color: purple;
+    height: 200px;
+    width: 915px;
+}  
+ 
+   
